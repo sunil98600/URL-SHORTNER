@@ -1,0 +1,5 @@
+create a url shortner using nodejs expressjs and mongodb which can following tasks
+
+1 : short the url provided by user
+2 : redirect the shortned url to original site
+3 : get analytics of the shortned url , it should contain taotal clicks and timing of clicks
